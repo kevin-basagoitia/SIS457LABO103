@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Puzzle_1-7648.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\PLANET-PC\Documents\Unreal Projects\Puzzle_1\Intermediate\Build\Win64\Puzzle_1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\PLANET-PC\Documents\Unreal Projects\Puzzle_1\Intermediate\Build\Win64\UE4Editor\Development\Puzzle_1\Puzzle_1.cpp.obj"
+"C:\Users\PLANET-PC\Documents\Unreal Projects\Puzzle_1\Intermediate\Build\Win64\UE4Editor\Development\Puzzle_1\Puzzle_1Block.cpp.obj"
+"C:\Users\PLANET-PC\Documents\Unreal Projects\Puzzle_1\Intermediate\Build\Win64\UE4Editor\Development\Puzzle_1\Puzzle_1BlockGrid.cpp.obj"
+"C:\Users\PLANET-PC\Documents\Unreal Projects\Puzzle_1\Intermediate\Build\Win64\UE4Editor\Development\Puzzle_1\Puzzle_1GameMode.cpp.obj"
+"C:\Users\PLANET-PC\Documents\Unreal Projects\Puzzle_1\Intermediate\Build\Win64\UE4Editor\Development\Puzzle_1\Puzzle_1Pawn.cpp.obj"
+"C:\Users\PLANET-PC\Documents\Unreal Projects\Puzzle_1\Intermediate\Build\Win64\UE4Editor\Development\Puzzle_1\Puzzle_1PlayerController.cpp.obj"
+"C:\Users\PLANET-PC\Documents\Unreal Projects\Puzzle_1\Intermediate\Build\Win64\UE4Editor\Development\Puzzle_1\Puzzle_1.init.gen.cpp.obj"
+"C:\Users\PLANET-PC\Documents\Unreal Projects\Puzzle_1\Intermediate\Build\Win64\UE4Editor\Development\Puzzle_1\Puzzle_1Block.gen.cpp.obj"
+"C:\Users\PLANET-PC\Documents\Unreal Projects\Puzzle_1\Intermediate\Build\Win64\UE4Editor\Development\Puzzle_1\Puzzle_1BlockGrid.gen.cpp.obj"
+"C:\Users\PLANET-PC\Documents\Unreal Projects\Puzzle_1\Intermediate\Build\Win64\UE4Editor\Development\Puzzle_1\Puzzle_1GameMode.gen.cpp.obj"
+"C:\Users\PLANET-PC\Documents\Unreal Projects\Puzzle_1\Intermediate\Build\Win64\UE4Editor\Development\Puzzle_1\Puzzle_1Pawn.gen.cpp.obj"
+"C:\Users\PLANET-PC\Documents\Unreal Projects\Puzzle_1\Intermediate\Build\Win64\UE4Editor\Development\Puzzle_1\Puzzle_1PlayerController.gen.cpp.obj"
+"C:\Users\PLANET-PC\Documents\Unreal Projects\Puzzle_1\Intermediate\Build\Win64\UE4Editor\Development\Puzzle_1\Default.rc2.res"
+/OUT:"C:\Users\PLANET-PC\Documents\Unreal Projects\Puzzle_1\Intermediate\Build\Win64\UE4Editor\Development\Puzzle_1\UE4Editor-Puzzle_1-7648.lib"

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Puzzle_1",
+			"Path": "C:\\Users\\PLANET-PC\\Documents\\Unreal Projects\\Puzzle_1\\Source\\Puzzle_1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Puzzle_1Editor",
+			"Path": "C:\\Users\\PLANET-PC\\Documents\\Unreal Projects\\Puzzle_1\\Source\\Puzzle_1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
